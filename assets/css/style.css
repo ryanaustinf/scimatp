@@ -1,0 +1,33 @@
+body {
+	background-color:#777;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.center-label {
+	width:800px;
+	margin:auto;
+	text-align:center;
+	background-color:#DDD;
+	padding:10px 20px;
+	margin-bottom: 20px
+}
+
+#main-content {
+	width:800px;
+	margin:auto;
+	background-color:#DDD;
+	padding:20px;
+	margin-bottom: 20px
+}
+
+#links {
+	width:800px;
+	margin:auto;
+	background-color:#DDD;
+	padding:20px;
+}
+
+#links a {
+	color:#000;
+	text-decoration: none;
+}
